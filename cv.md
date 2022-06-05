@@ -26,4 +26,4 @@
  * Higher technical education. 
  * course Java Rush(syntax and core).
  # Language:
- Note as good as i would like.
+ note as good as i would like.
