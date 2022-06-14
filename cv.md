@@ -26,4 +26,4 @@
  * higher technical education. 
  * course Java Rush(syntax and core).
  # Language:
- note as good as i would like.
+ english A2.
